@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=OPhoneX
+comment0.text=\r\n\ OPhoneX\ sub-class;\ inherits\ from\ OPhone\ class.\r\n\r\n\ @author\ Hwansu\ Kim\ (Billy)\r\n\ @version\ 03/05/2022\r\n
+comment1.params=
+comment1.target=OPhoneX()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ OPhoneX\r\n
+comment2.params=
+comment2.target=double\ getPrice()
+comment2.text=\r\n\ Accessor\ for\ the\ price\ of\ class\ OPhoneX.\r\n\ @return\ \ \ \ \ \ The\ price\ of\ the\ phone;\ rounded\ to\ the\ nearest\ ten.\r\n
+comment3.params=
+comment3.target=int\ getComm()
+comment3.text=\r\n\ Accessor\ for\ the\ communication\ tech.\ of\ class\ OPhoneX.\r\n\ @return\ \ \ \ \ \ The\ communication\ tech.\ of\ the\ phone.\r\n
+comment4.params=
+comment4.target=double\ getScreen()
+comment4.text=\r\n\ Accessor\ for\ the\ screen\ size\ of\ class\ OPhoneX.\r\n\ @return\ \ \ \ \ \ The\ screen\ size\ of\ the\ phone.\r\n
+comment5.params=
+comment5.target=int\ getCam()
+comment5.text=\r\n\ Accessor\ for\ the\ camera\ capacity\ of\ class\ OPhoneX.\r\n\ @return\ \ \ \ \ \ The\ camera\ capacity\ of\ the\ phone;\ in\ megapixels\ (MP).\r\n
+comment6.params=
+comment6.target=java.lang.String\ getVidRes()
+comment6.text=\r\n\ Accessor\ for\ the\ video\ resolution\ of\ class\ OPhoneX.\r\n\ @return\ \ \ \ \ \ The\ video\ resolution\ of\ the\ phone.\r\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\r\n\ String\ output\ for\ OPhoneX\ class.\r\n\ @return\ \ \ \ \ \ One\ line\ list\ of\ phone\ details.\r\n
+numComments=8

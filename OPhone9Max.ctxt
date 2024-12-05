@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=OPhone9Max
+comment0.text=\r\n\ OPhone9Max\ sub-class;\ inherits\ from\ OPhone9\ class.\r\n\r\n\ @author\ Hwansu\ Kim\ (Billy)\r\n\ @version\ 03/05/2022\r\n
+comment1.params=
+comment1.target=OPhone9Max()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ OPhone9Max\r\n
+comment2.params=
+comment2.target=double\ getPrice()
+comment2.text=\r\n\ Accessor\ for\ the\ price\ of\ class\ OPhone9Max.\r\n\ @return\ \ \ \ \ \ The\ price\ of\ the\ phone;\ rounded\ to\ the\ nearest\ ten.\r\n
+comment3.params=
+comment3.target=double\ getScreen()
+comment3.text=\r\n\ Accessor\ for\ the\ screen\ size\ of\ class\ OPhone9Max.\r\n\ @return\ \ \ \ \ \ The\ screen\ size\ of\ the\ phone.\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ String\ output\ for\ OPhone9Max\ class.\r\n\ @return\ \ \ \ \ \ One\ line\ list\ of\ phone\ details.\r\n
+numComments=5

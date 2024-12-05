@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=OPhoneXFilm
+comment0.text=\r\n\ OPhoneXFilm\ sub-class;\ inherits\ from\ OPhoneX\ class.\r\n\r\n\ @author\ Hwansu\ Kim\ (Billy)\r\n\ @version\ 03/05/2022\r\n
+comment1.params=
+comment1.target=OPhoneXFilm()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ OPhoneXFilm\r\n
+comment2.params=
+comment2.target=double\ getPrice()
+comment2.text=\r\n\ Accessor\ for\ the\ price\ of\ class\ OPhoneXFilm.\r\n\ @return\ \ \ \ \ \ The\ price\ of\ the\ phone;\ rounded\ to\ the\ nearest\ ten.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getVidRes()
+comment3.text=\r\n\ Accessor\ for\ the\ video\ resolution\ of\ class\ OPhoneXFilm.\r\n\ @return\ \ \ \ \ \ The\ video\ resolution\ of\ the\ phone.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getExtra()
+comment4.text=\r\n\ Accessor\ for\ the\ extra\ feature\ of\ class\ OPhoneXFilm.\r\n\ @return\ \ \ \ \ \ The\ extra\ feature\ of\ the\ phone.\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ String\ output\ for\ OPhoneXFilm\ class.\r\n\ @return\ \ \ \ \ \ One\ line\ list\ of\ phone\ details.\r\n
+numComments=6
